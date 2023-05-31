@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bharath-ux270
 - 👀 I’m interested in Developing web Applications
-- 🌱 I’m currently learning Dot Net Full Stack
+- 🌱 I’m currently searching for Dot Net Full Stack developer job
 - 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me ...bharathlallu07@gmail.com
 
